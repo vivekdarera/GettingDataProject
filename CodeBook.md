@@ -6,25 +6,22 @@ Data Dictionary - GettingDataProject
 Description: Subject Number  
 Type: Integer  
 Range: 1-30  
+Summarization: None  
 
 *Variable Name: Activity*
 
 Description: Activity Type
 Type: String  
 Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-   
-*Variable Name: Subject*
-
-Description: Subject Number  
-Type: Integer  
-Range: 1-30  
+Summarization: None  
 
 
 *All other variables*
 
-Description: As in column name  
+Description: As in column name, all values are smmarized by the averages over every subject-activity combo
 Type: Real number  
 Range: -1 to +1  
+Summarization: Averaging  
 
  [3] "Body Accelaration Average value on X Axis"       "Body Accelaration Average value on Y Axis"      
  [5] "Body Accelaration Average value on Z Axis"       "Gravity Accelaration Average value on X Axis"   
