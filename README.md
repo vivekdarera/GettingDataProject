@@ -7,4 +7,4 @@ There are 5 major phases of analysis that happen here:
 - Reading all the data in.
 - Binding the different files together
 
-![image from redmond barry building unimelb](http://i.imgur.com/RVNmr.jpg)
+![image from redmond barry building unimelb](data.png)
